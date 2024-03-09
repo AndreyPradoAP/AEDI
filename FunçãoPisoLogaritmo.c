@@ -1,3 +1,10 @@
+/*
+   Estudo de Funções Recursivas. 
+   Função criada com base no enunciado número 1.2.4 do livro Algoritmos em Linguagem C de Paulo Feofiloff.
+*/
+
+#include <stdio.h>
+
 /* A função abaixo recebe um inteiro num >= 1
    e retorna o piso do logaritmo de num na base 2 */
 int pisoLog2(int num) {
