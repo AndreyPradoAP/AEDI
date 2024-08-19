@@ -1,4 +1,4 @@
-# Projetos AEDI
+# Corretor Sudoku
 
 Software para correção de jogos de sudoku, 
 baseado no problema G do arquivo: https://www.ime.usp.br/~cef/Xmaratona/problems/prova.pdf
