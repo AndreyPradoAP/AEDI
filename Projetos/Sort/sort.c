@@ -12,11 +12,7 @@ int main(int argc, char const *argv[]) {
         else if (numCres[c-1] > numsSeq[c]) {
         
         }
-
-        
-
     }
     
-
     return 0;
 }
